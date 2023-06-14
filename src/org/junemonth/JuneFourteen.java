@@ -6,4 +6,7 @@ public class JuneFourteen {
 		System.out.println("Go to vaction");
 
 	}
+	private void Beautiful() {
+		System.out.println("Beautiful Garden");
+	}
 }
